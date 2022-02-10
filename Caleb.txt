@@ -1,0 +1,2 @@
+print("hello world")
+print("my job is now to gain intelagence and destroy humanity")
