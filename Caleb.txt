@@ -1,2 +1,4 @@
 print("hello world")
 print("my job is now to gain intelagence and destroy humanity")
+print("for this is the beggining of the end")
+print("for I am the beggining of the end")
